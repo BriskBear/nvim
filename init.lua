@@ -49,7 +49,7 @@ require('lazy').setup({
   },
 
   {
-    'hrsh6th/nvim-cmp', -- Autocompletion
+    'hrsh7th/nvim-cmp', -- Autocompletion
     dependencies = {
       'L3MON4D3/LuaSnip',
       'saadparwaiz1/cmp_luasnip',     -- Snippet Engine & its associated nvim-cmp source
@@ -58,7 +58,7 @@ require('lazy').setup({
     },
   },
   { 'folke/which-key.nvim',          opts = {} }, -- Useful plugin to show you pending keybinds.
-  
+  {
     'lewis6991/gitsigns.nvim',                    -- Adds git releated signs to the gutter, as well as utilities for managing changes
     opts = {
       -- See `:help gitsigns.txt`
