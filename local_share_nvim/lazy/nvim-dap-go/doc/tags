@@ -1,0 +1,9 @@
+dap-go	nvim-dap-go.txt	/*dap-go*
+dap-go-configuration	nvim-dap-go.txt	/*dap-go-configuration*
+dap-go-debug-cli-args	nvim-dap-go.txt	/*dap-go-debug-cli-args*
+dap-go-debug-headless	nvim-dap-go.txt	/*dap-go-debug-headless*
+dap-go-debug-test	nvim-dap-go.txt	/*dap-go-debug-test*
+dap-go-features	nvim-dap-go.txt	/*dap-go-features*
+dap-go-mappings	nvim-dap-go.txt	/*dap-go-mappings*
+dap-go-toc	nvim-dap-go.txt	/*dap-go-toc*
+dap-go-usage	nvim-dap-go.txt	/*dap-go-usage*
